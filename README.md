@@ -2,6 +2,8 @@
 
 A simple Pure Data object to extract RMS from an input signal using overlapping windows and different window types.  The window types influence how the mean value of each overlapping layer is interpolated.
 
+![rmsoverlap~ help patch](patchimg_rmsoverlap-help.png)
+
 ### Note
 
 This project is part of a larger ongoing effort to develop and explain concepts related to Pure Data DSP machine listening externals coding. It serves as both a practical tool and an educational resource.
