@@ -1,2 +1,3 @@
 *.pd_darwin
 *.pd_linux
+*.o
